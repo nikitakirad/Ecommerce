@@ -1,0 +1,42 @@
+/* 
+.container{
+    width:80%;
+    margin:auto;
+    margin-top: 40px;
+    padding:30px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.productimage{
+    width:50%;
+    float:left;
+}
+.productdetails{
+    float:left;
+    width:50%;
+    padding:20px
+}
+
+p,h3{
+    text-align: left;
+}
+
+.incdecbutton{
+    cursor: pointer;
+    width: 5%;
+    border: 1px solid grey;
+    border-radius: 15px;
+    height: 5%;
+    line-height: 5%;
+    vertical-align: center;
+    margin: 0px 5px;
+    padding: 10px;
+}
+.countbutton{
+    width:15%;
+    border:1px solid grey;
+    border-radius: 2px;
+    height: 5%;
+    margin: 0px 5px;
+} */
