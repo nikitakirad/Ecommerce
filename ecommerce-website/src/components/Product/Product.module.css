@@ -1,0 +1,19 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    background-color: #f1f1f1;
+    height:420px;
+    transition: transform .2s;
+}
+.column {
+    float: left;
+    width: 32%;
+    padding: 0 10px;
+    margin:20px 5px;
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

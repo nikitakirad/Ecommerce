@@ -1,0 +1,17 @@
+.container{
+    width:80%;
+    margin:auto;
+   
+}
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+input,select{
+    margin: 0px 10px;
+    width:400px;
+    padding:10px;
+    border-radius: 3px;
+    border:1px solid grey;
+}
